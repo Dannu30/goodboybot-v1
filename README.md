@@ -84,7 +84,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`CAF-ID`](https://github.com/CAF-ID)
 * [`bintang`](https://github.com/Bintangp02)
 * [`THE JO BOT`](https://github.com/THEJO307) 
-* 
+* [`KirBotz`](https://github.com/KirBotz) 
 ```Thanks to all who have participated in the development of this script```
 
 
