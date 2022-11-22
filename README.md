@@ -2,7 +2,7 @@
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://postimg.cc/QK7hps3M" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/Goodboybot-11-22" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">GOODBOY-BOT</h1>
 
@@ -12,8 +12,8 @@ SUBSCRIBE YOUTUBE GOODBOY [`YouTube`](https://youtube.com/channel/UCjVlwguwduOBA
 
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`THEJO307/threebot`](https://github.com/Dannu30/goodboybot-v1)
-* WhatsApp Bot Multi Device [`THEJO307/threebot`](https://github.com/Dannu30/goodboybot-v1)
+* WhatsApp Bot normal [`Dannu30/goodboybot-v1`](https://github.com/Dannu30/goodboybot-v1)
+* WhatsApp Bot Multi Device [`Dannu30/goodboybot-v1t`](https://github.com/Dannu30/goodboybot-v1)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
