@@ -1,5 +1,5 @@
 {
-  "name": "three-bot",
+  "name": "goodboy-bot",
   "version": "8.5.4",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "The Jo Bot.",
+  "author": "GOOD BOY BOT.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:THEJO307/Baileys",
