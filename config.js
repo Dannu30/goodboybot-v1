@@ -13,14 +13,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THREE BOT'
+global.ownername = 'GOOD BOY BOT'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['60177426853','6285731811079','6285339388512']
+global.owner = ['60177426853','6283152864289']
 global.premium = ['60177426853']
-global.packname = 'The Jo Bot'
+global.packname = 'GOOD BOY BOT'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
@@ -41,7 +41,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 100
 }
-global.thumb = fs.readFileSync('./lib/three.jpg')
+global.thumb = fs.readFileSync('./lib/mod.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
