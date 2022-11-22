@@ -2,18 +2,18 @@
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="/storage/200F-0916/Download/mod.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">THE_JO_BOT</h1>
+<h1 align="center">GOODBOY-BOT</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
-SUBSCRIBE YOUTUBE THE JO BOT [`YouTube`](https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w)
+SUBSCRIBE YOUTUBE GOODBOY [`YouTube`](https://youtube.com/channel/UCjVlwguwduOBA6N7ztfFhhw)
 
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`THEJO307/threebot`](https://github.com/THEJO307/threebot)
-* WhatsApp Bot Multi Device [`THEJO307/threebot`](https://github.com/THEJO307/threebot)
+* WhatsApp Bot normal [`THEJO307/threebot`](https://github.com/Dannu30/goodboybot-v1)
+* WhatsApp Bot Multi Device [`THEJO307/threebot`](https://github.com/Dannu30/goodboybot-v1)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -24,8 +24,8 @@ SUBSCRIBE YOUTUBE THE JO BOT [`YouTube`](https://youtube.com/channel/UC-wt99jFVc
 
 
 ```bash
-git https://github.com/THEJO307/threebot
-cd threebot
+git https://github.com/Dannu30/goodboybot-v1
+cd goodboybot-v1
 npm install
 ```
 
@@ -45,7 +45,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/THEJO307/threebot
+git clone https://github.com/Dannu30/goodboybot-v1
+
 cd threebot
 npm install
 ```
@@ -66,7 +67,7 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/THEJO307/threebot/blob/master/config.js)
+Editing Number Owner & session name in [`config.js`](https://github.com/Dannu30/goodboybot-v1/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
@@ -82,10 +83,11 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`zhwzein`](https://github.com/zhwzein)
 * [`CAF-ID`](https://github.com/CAF-ID)
 * [`bintang`](https://github.com/Bintangp02)
-
+* [`THE JO BOT`](https://github.com/THEJO307) 
+* 
 ```Thanks to all who have participated in the development of this script```
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-# botmdjo
+# botmdboy
