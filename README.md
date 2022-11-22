@@ -2,7 +2,7 @@
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="/storage/200F-0916/Download/mod.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://postimg.cc/QK7hps3M" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">GOODBOY-BOT</h1>
 
