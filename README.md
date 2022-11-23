@@ -8,9 +8,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 <p align="center">
 
-  <img src="https://telegra.ph/669171661645.png" /></>
-
-</p>
+  <img src="https://telegra.ph/lib/goodboybot.jpg /></> </p>
 
 SUBSCRIBE YOUTUBE GOODBOY [`YouTube`](https://youtube.com/channel/UCjVlwguwduOBA6N7ztfFhhw)
 
