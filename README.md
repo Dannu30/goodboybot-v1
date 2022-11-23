@@ -8,7 +8,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 <p align="center">
 
-  <img src="https://telegra.ph/file/a5c5bcc1fcc2c6557d078.png" /></>
+  <img src="https://telegra.ph/RReadme-11-23" /></>
 
 </p>
 
