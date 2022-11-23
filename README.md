@@ -1,11 +1,16 @@
 # GOODBOY BOTZ
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
-<p align="center">
-	<img src="https://telegra.ph/Goodboybot-11-22" width="35%" style="margin-left: auto;margin-right: auto;display: block;'</p>
-<h1 align="center">GOODBOY-BOT</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+
+<h1 align="center">Hai Kak<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br> Tq Yah Dah Mampir </h1>
+
+<p align="center">
+
+  <img src="https://telegra.ph/file/a5c5bcc1fcc2c6557d078.png" /></>
+
+</p>
 
 SUBSCRIBE YOUTUBE GOODBOY [`YouTube`](https://youtube.com/channel/UCjVlwguwduOBA6N7ztfFhhw)
 
