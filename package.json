@@ -21,7 +21,7 @@
   "author": "GOOD BOY BOT.",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:THEJO307/Baileys",
+    "@adiwajshing/baileys": "github:Dannu30/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
@@ -63,10 +63,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/THEJO307/jo-private.git"
+    "url": "git+https://github.com/Dannu30/goodboybot-v1.git"
   },
   "bugs": {
-    "url": "https://github.com/THEJO307/jo-private/issues"
+    "url": "https://github.com/Dannu30/goodboybot-v1/issues"
   },
-  "homepage": "https://github.com/THEJO307/jo-private#readme"
+  "homepage": "https://github.com/Dannu30/goodboybot-v1#readme"
 }
