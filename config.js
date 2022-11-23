@@ -18,8 +18,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['60177426853','6283152864289','62895368426077']
-global.premium = ['60177426853']
+global.owner = ['62895368426077','6283152864289']
+global.premium = ['62895368426077']
 global.packname = 'GOOD BOY BOT'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
@@ -41,7 +41,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 100
 }
-global.thumb = fs.readFileSync('./lib/mod.jpg')
+global.thumb = fs.readFileSync('./lib/goodboybot.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
