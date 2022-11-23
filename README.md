@@ -1,9 +1,8 @@
-# CATATAN ( NOTE )
+# GOODBOY BOTZ
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/Goodboybot-11-22" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
+	<img src="https://telegra.ph/Goodboybot-11-22" width="35%" style="margin-left: auto;margin-right: auto;display: block;'</p>
 <h1 align="center">GOODBOY-BOT</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
